@@ -4,6 +4,7 @@ iOS 앱 제작 SWIFT프로그래밍 입문.
 연락처 : kennysy@naver.com.   
 
 
+### Soft Keyboard 숨기기
 
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
         self.view.endEditing(true)
